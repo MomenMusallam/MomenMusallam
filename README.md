@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Momen Musallam</h1>
-<h3 align="center">A passionate Backend developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+MOMEN+MUSALLAM.;I+AM+A+BACKEND+PROGRAMMER.;3+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+  <br><h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momenmusallam&label=Profile%20views&color=0e75b6&style=flat" alt="momenmusallam" /> </p>
 
