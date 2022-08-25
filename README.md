@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momenmusallam&label=Profile%20views&color=0e75b6&style=flat" alt="momenmusallam" /> </p>
 
-- 🌱 I’m currently learning **devops deployment**
-
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **mmusallam970@gmail.com**
