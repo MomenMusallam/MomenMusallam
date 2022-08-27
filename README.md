@@ -2,16 +2,16 @@
 
 <p align="center"><a href="https://twitter.com/MomenMusallam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/momen-musallam-89834222b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/momen.musallam/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
+
 ##
+<h3 align="center">Backend developer by using @<a href='https://www.php.net/'>PHP</a> - <a href='https://laravel.com/'>Laravel Framework</a> | Graduated with a Software Engineering degree from @ <a href='https://www.iugaza.edu.ps/en/'>Islamic university of gaza</a> </h3>
+<img align="right" src="https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=790b761109ff3bb15032b434df7b6bfc45f1f3158fb466e5&rid=giphy.gif&ct=g" width="240"/>
+  
+## I little bit about me
+<p align="justify">I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. In 2019, I started to learn how to use PHP - Laravel Framework to create dynamic and secure web apps.</p>
 
-<img align="right" src="https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=790b761109ff3bb15032b434df7b6bfc45f1f3158fb466e5&rid=giphy.gif&ct=g" width="240" />
-
-  <br><h3 align="center">I'm Laravel Backend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momenmusallam&label=Profile%20views&color=0e75b6&style=flat" alt="momenmusallam" /> </p>
-
-- 💬 Ask me about **Laravel**
-
+- 🐱‍🏍 I enjoy being able to create something that other people can use to make their lives easier.
+- 🦾 I take criticism well and use suggestions to improve the product. 
 - 📫 How to reach me **mmusallam970@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momenmusallam&show_icons=true&locale=en&layout=compact" alt="momenmusallam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momenmusallam&show_icons=true&locale=en" alt="momenmusallam" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=momenmusallam&label=Profile%20views&color=0e75b6&style=flat" alt="momenmusallam" /> </p>
