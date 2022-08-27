@@ -8,7 +8,7 @@
 <img align="right" src="https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=790b761109ff3bb15032b434df7b6bfc45f1f3158fb466e5&rid=giphy.gif&ct=g" width="240"/>
   
 ## I little bit about me
-<p align="justify">I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. In 2019, I started to learn how to use PHP - Laravel Framework to create dynamic and secure web apps.</p>
+<p align="left">I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. In 2019, I started to learn how to use PHP - Laravel Framework to create dynamic and secure web apps.</p>
 
 - 🐱‍🏍 I enjoy being able to create something that other people can use to make their lives easier.
 - 🦾 I take criticism well and use suggestions to improve the product. 
