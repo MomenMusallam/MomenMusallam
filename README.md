@@ -7,14 +7,14 @@
 <h3 align="center">Backend developer by using @<a href='https://www.php.net/'>PHP</a> - <a href='https://laravel.com/'>Laravel Framework</a> | Graduated with a Software Engineering degree from @ <a href='https://www.iugaza.edu.ps/en/'>Islamic university of gaza</a> </h3>
 <img align="right" src="https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=790b761109ff3bb15032b434df7b6bfc45f1f3158fb466e5&rid=giphy.gif&ct=g" width="240"/>
   
-## A little bit about me
+## A little bit about me 🙅‍♂️:
 <p align="left">I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. In 2019, I started to learn how to use PHP - Laravel Framework to create dynamic and secure web apps.</p>
 
 - 🐱‍🏍 I enjoy being able to create something that other people can use to make their lives easier.
 - 🦾 I take criticism well and use suggestions to improve the product. 
 - 📫 How to reach me **mmusallam970@gmail.com**
 
-### Languages and Tools:
+## Languages and Tools 🛠:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,13 +28,12 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Version Control :
-
+## Version Control 🕹:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### ✨ Github State
+##  Github State 🎖:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momenmusallam&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="momenmusallam" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momenmusallam&show_icons=true&theme=tokyonight&locale=en" alt="momenmusallam" /></p>
 
