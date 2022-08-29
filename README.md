@@ -8,8 +8,6 @@
 <img align="right" src="https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=790b761109ff3bb15032b434df7b6bfc45f1f3158fb466e5&rid=giphy.gif&ct=g" width="240"/>
   
 ## A little bit about me 🙅‍♂️:
-<p align="left">I started in 2018 with HTML and CSS, making simple static web pages and expanding my knowledge over time. In 2019, I started to learn how to use PHP - Laravel Framework to create dynamic and secure web apps.</p>
-
 - 🐱‍🏍 I enjoy being able to create something that other people can use to make their lives easier.
 - 🦾 I take criticism well and use suggestions to improve the product. 
 - 📫 How to reach me **mmusallam970@gmail.com**
@@ -41,12 +39,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momenmusallam&label=Profile%20views&color=0e75b6&style=flat" alt="momenmusallam" /> </p>
 
-## 🚀 Deployed Projects
+##  Deployed Projects 🚀:
 ### 1-[Book Your Doctor](https://hajez.mymatgar.com/login) 🥼🩺 | Laravel - API & Dashboard
  Book your doctor is an application that helps doctors and patients organize their appointments and clinics and manage their time efficiently. In addition, it aims to help patients in booking appointments with doctors from their homes using the application, quickly and easily without the need to go to the doctor’s office and wait for long periods, as well as avoiding the congestion that always occurs in clinics, which causes the spread of infection among patients, as happened in the recent period of corona disease.
  
 ### 2-[BOOK ZONE](https://training2021.000webhostapp.com/Books/public_html/) 📗| Laravel
   BOOK ZONE  is a site for displaying books in all categories. Books are classified into groups on several bases, including the author, publishing house, and classification .
 
-### [Amado](https://github.com/haitham-akram/movieApp) 🛒🛏 | PHP
- 
+### 3-[Amado](https://training2021.000webhostapp.com/Books/public_html/) 🛒🛏 | PHP
+It is a site specialized in selling home and office furniture, as it contains many different categories, and there is also a control panel to add, modify and delete any product, add new categories and review all olders . 
